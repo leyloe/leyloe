@@ -1,4 +1,6 @@
 ## about
+**proficiency**
+utilization
 toolset - **zig**, asm, **c**, **c++**, **cmake**, **make**, **rust**, ghidra, visual studio(/code), clang, debian+abroot, windows 10 enterprise n, 
 
 ## xmr
